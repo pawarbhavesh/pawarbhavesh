@@ -1,7 +1,7 @@
-Hi , I'm Bhavesh Pawar
-Mechanical Engineering Student
-🌱 I'm currently exploring Web Development
-Languages,Tools,DBS & Frameworks :  HTML / CSS / Python / VS Code
+- Hi , I'm Bhavesh Pawar
+- Mechanical Engineering Student
+- 🌱 I'm currently exploring Web Development
+- Languages,Tools,DBS & Frameworks :  HTML / CSS / Python / VS Code
 / SQL
 
 <!---
